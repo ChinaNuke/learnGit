@@ -1,7 +1,2 @@
-学习Git第一步！
-学习Git第二步！
-学习Git33333
-404404404
-505
-created a new new branch!
-no fast forward!
+全删了
+啥也不剩
